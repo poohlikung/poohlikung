@@ -1,18 +1,18 @@
-<h1>Hi, I'm Sorawit Wansen 👋</h1>
+<h1>Hi, I'm Sorawit Wansen </h1>
 <h3>but you can call me <b>Pooh</b> ☕</h3>
 
 <p>
-  🎓 3rd-year Computer Science student at Khon Kaen University<br>
+  💻 3rd-year Computer Science student at Khon Kaen University<br>
   💻 Interested in Backend & Web Development<br>
-  🤖 I also build robots<br>
-  ☕ Latte is basically my fuel
+  💻 I also build robots<br>
+  💻 Latte is basically my fuel
 </p>
 
 <br>
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/>

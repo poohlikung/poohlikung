@@ -1,4 +1,4 @@
-<h1>✡︎Hi, I'm Sorawit Wansen ✡︎</h1>
+<h1>Hi, I'm Sorawit Wansen 𓆗</h1>
 <h2>but you can call me <b>Pooh</b> ✡︎</h2>
 
 <p>

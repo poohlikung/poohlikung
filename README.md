@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sorawit Wansen 👋</h1>
-<h3 align="center">but you can call me <b>Pooh</b> ☕</h3>
+<h1>Hi, I'm Sorawit Wansen 👋</h1>
+<h3>but you can call me <b>Pooh</b> ☕</h3>
 
-<p align="center">
+<p>
   🎓 3rd-year Computer Science student at Khon Kaen University<br>
   💻 Interested in Backend & Web Development<br>
   🤖 I also build robots<br>

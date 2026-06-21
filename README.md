@@ -1,5 +1,5 @@
-<h1>Hi, I'm Sorawit Wansen </h1>
-<h3>but you can call me <b>Pooh</b> ✡︎</h3>
+<h1>✡︎Hi, I'm Sorawit Wansen ✡︎</h1>
+<h2>but you can call me <b>Pooh</b> ✡︎</h2>
 
 <p>
   ✡︎ 3rd-year Computer Science student at Khon Kaen University<br>

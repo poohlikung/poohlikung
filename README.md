@@ -4,8 +4,7 @@
 <p>
   ✡︎ 3rd-year Computer Science student at Khon Kaen University<br>
   ✡︎ Interested in Backend & Web Development<br>
-  ✡︎ I also build robots<br>
-  ✡︎ Latte is basically my fuel
+  ✡︎ robots lover<br>
 </p>
 
 <br>

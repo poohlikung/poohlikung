@@ -3,7 +3,7 @@
 
 <p>
   ✡︎ 3rd-year Computer Science student at Khon Kaen University<br>
-  ✡︎ Interested in Backend & Web Development<br>
+  ✡︎ snooker & gym<br>
   ✡︎ robots lover<br>
 </p>
 
